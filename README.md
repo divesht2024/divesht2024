@@ -1,4 +1,4 @@
-# QA Automation & Cloud Fundamentals – GitHub Portfolio
+# QA Automation - GitHub Portfolio
 
 👋 Hi, I’m **Divesh Tayade**, a fresher QA professional with hands-on experience in **Manual Testing**, **Automation Testing**, and strong fundamentals in **Cloud (AWS)** and **Python**. This repository represents my learning, practice work, and testing projects that demonstrate my understanding of software quality assurance and modern testing practices.
 
