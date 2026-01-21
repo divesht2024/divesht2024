@@ -19,13 +19,10 @@
 
 * Automation testing fundamentals
 * Selenium basics for web automation
-* Python for writing automated test scripts
-* Automated scenarios such as:
-
-  * Login functionality
-  * Form validation
-  * Smoke & Regression test cases
+* JAVA for writing automated test scripts
 * Basic knowledge of automation frameworks
+* TestNG for test execution, grouping, prioritization, and reporting
+* Page Object Model (POM) for maintainable and reusable test automation design
 
 ---
 
