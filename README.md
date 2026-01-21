@@ -1,56 +1,93 @@
-<h1 align="center">Hi 👋, I'm DIVESH M.TAYADE</h1>
-<h3 align="center">A passionate Frontend Developer and Programmer from India</h3>
+# QA Automation & Cloud Fundamentals – GitHub Portfolio
 
-- 🌱 I’m currently learning **AWS, MERN Stack, Android Development, Linux, and Frontend Technologies**
+👋 Hi, I’m **Divesh Tayade**, a fresher QA professional with hands-on experience in **Manual Testing**, **Automation Testing**, and strong fundamentals in **Cloud (AWS)** and **Python**. This repository represents my learning, practice work, and testing projects that demonstrate my understanding of software quality assurance and modern testing practices.
 
-- 👯 I’m looking to collaborate on **MERN Projects**
+---
 
-- 💬 Ask me about **Frontend Development, AWS, Linux, and Programming**
+## 🧪 Software Testing Skills
 
-- 📫 How to reach me **diveshtayade20@gmail.com**
+### ✅ Manual Testing
 
-- ⚡ Fun fact **I think I am Funny with a positive mindset.**
+* Functional, Smoke, Regression & UI Testing
+* Test Case Design, Execution & Review
+* Defect Reporting with Severity & Priority
+* Test Documentation (Test Plan, Test Report)
+* Understanding of **SDLC** and **STLC**
+* Experience working in **Agile / Sprint-based environments**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/diveshtayade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divesh tayade" height="30" width="40" /></a>
-<a href="https://fb.com/diveshtayade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="divesh tayade" height="30" width="40" /></a>
-<a href="https://instagram.com/_denver_2151_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_denver_2151_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/divesh1611" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="divesh1611" height="30" width="40" /></a>
-</p>
+### 🤖 Automation Testing
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-</a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-</a> 
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-</a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-</a> 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a>
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/> 
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-</a>
-</p>
+* Automation testing fundamentals
+* Selenium basics for web automation
+* Python for writing automated test scripts
+* Automated scenarios such as:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divesht2024&show_icons=true&locale=en&layout=compact" alt="divesht2024" /></p>
+  * Login functionality
+  * Form validation
+  * Smoke & Regression test cases
+* Basic knowledge of automation frameworks
+
+---
+
+## 🌐 Web Application Testing Experience
+
+* Manual testing of a **Django-based EdTech Website**
+* UI validation and cross-browser testing
+* Navigation, workflow, and form testing
+* End-to-end functional test execution
+
+---
+
+## 🔌 API & Database Testing
+
+* API testing fundamentals
+* Validating request & response data
+* Understanding of REST APIs
+* Basic Database Testing using SQL queries:
+* Data validation between UI, API, and Database
+
+---
+
+## ☁️ Cloud & IT Fundamentals
+
+* AWS Cloud fundamentals (Cloud Practitioner level)
+* IAM basics (Users, Roles, Policies)
+* Understanding of Cloud Support Engineer / AWS Support Associate role
+* Networking basics:
+
+
+---
+
+
+
+---
+
+## 🛠️ Tools & Technologies
+
+* Selenium
+* Python
+* Git & GitHub
+* Linux / 
+* Test Documentation Tools
+
+---
+
+## 🎯 Career Objective
+
+To start my career as a **QA Manual / Automation Tester** or **Cloud Support Associate**, where I can apply my testing knowledge, automation skills, and cloud fundamentals to improve software quality while continuously learning and growing in a professional environment.
+
+---
+
+## 📌 Notes
+
+* This repository is continuously updated as I learn new tools and technologies.
+* I focus on writing clear test cases, meaningful bug reports, and maintainable automation scripts.
+
+---
+
+📫 **Connect with me**
+
+* GitHub: (this profile)
+* LinkedIn: *(Add your LinkedIn profile link here)*
+
+⭐ If you find my work useful, feel free to star this repository!
