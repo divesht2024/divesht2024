@@ -56,7 +56,6 @@
 * Networking basics:
 
 
----
 
 
 
@@ -67,7 +66,7 @@
 * Selenium
 * Python
 * Git & GitHub
-* Linux / 
+* Linux 
 * Test Documentation Tools
 
 ---
@@ -78,16 +77,3 @@ To start my career as a **QA Manual / Automation Tester** or **Cloud Support Ass
 
 ---
 
-## 📌 Notes
-
-* This repository is continuously updated as I learn new tools and technologies.
-* I focus on writing clear test cases, meaningful bug reports, and maintainable automation scripts.
-
----
-
-📫 **Connect with me**
-
-* GitHub: (this profile)
-* LinkedIn: *(Add your LinkedIn profile link here)*
-
-⭐ If you find my work useful, feel free to star this repository!
