@@ -1,76 +1,174 @@
-# QA Automation - GitHub Portfolio
+# Hi, I'm Divesh Tayade 👋
 
-👋 Hi, I’m **Divesh Tayade**, a fresher QA professional with hands-on experience in **Manual Testing**, **Automation Testing**, and strong fundamentals in **Cloud (AWS)** and **Python**. This repository represents my learning, practice work, and testing projects that demonstrate my understanding of software quality assurance and modern testing practices.
+### ☁️ AWS & Cloud Engineer | Terraform | Docker | Linux | SQL | Networking
 
----
+🚀 Passionate Cloud Engineer with hands-on experience designing, deploying, and managing scalable cloud infrastructure on AWS using Terraform and cloud-native technologies. Skilled in Infrastructure as Code (IaC), cloud networking, Docker containerization, Linux administration, automation, and monitoring.
 
-## 🧪 Software Testing Skills
-
-### ✅ Manual Testing
-
-* Functional, Smoke, Regression & UI Testing
-* Test Case Design, Execution & Review
-* Defect Reporting with Severity & Priority
-* Test Documentation (Test Plan, Test Report)
-* Understanding of **SDLC** and **STLC**
-* Experience working in **Agile / Sprint-based environments**
-
-### 🤖 Automation Testing
-
-* Automation testing fundamentals
-* Selenium basics for web automation
-* JAVA for writing automated test scripts
-* Basic knowledge of automation frameworks
-* TestNG for test execution, grouping, prioritization, and reporting
-* Page Object Model (POM) for maintainable and reusable test automation design
+💡 Focused on building secure, reliable, and production-ready cloud environments while continuously improving cloud and DevOps skills.
 
 ---
 
-## 🌐 Web Application Testing Experience
+# 🚀 Technical Skills
 
-* Manual testing of a **Django-based EdTech Website**
-* UI validation and cross-browser testing
-* Navigation, workflow, and form testing
-* End-to-end functional test execution
+## ☁️ Cloud Computing (AWS)
 
----
-
-## 🔌 API & Database Testing
-
-* API testing fundamentals
-* Validating request & response data
-* Understanding of REST APIs
-* Basic Database Testing using SQL queries:
-* Data validation between UI, API, and Database
-
----
-
-## ☁️ Cloud & IT Fundamentals
-
-* AWS Cloud fundamentals (Cloud Practitioner level)
-* IAM basics (Users, Roles, Policies)
-* Understanding of Cloud Support Engineer / AWS Support Associate role
-* Networking basics:
-
-
-
-
+🔹 EC2
+🔹 VPC
+🔹 S3
+🔹 IAM
+🔹 EBS
+🔹 RDS
+🔹 EFS
+🔹 Elastic Load Balancer (ELB)
+🔹 Auto Scaling
+🔹 CloudFront
+🔹 SNS
+🔹 SQS
+🔹 Route 53
+🔹 CloudWatch
+🔹 DynamoDB
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠 Infrastructure as Code (Terraform)
 
-* Selenium
-* Python
-* Git & GitHub
-* Linux 
-* Test Documentation Tools
+🔹 AWS Provider
+🔹 Resources
+🔹 Variables
+🔹 Outputs
+🔹 Modules
+🔹 State Management
+🔹 Remote Backend
+🔹 Provisioners
+🔹 Dynamic Blocks
+🔹 Workspaces
 
 ---
 
-## 🎯 Career Objective
+## 🐳 Containerization (Docker)
 
-To start my career as a **QA Manual / Automation Tester** or **Cloud Support Associate**, where I can apply my testing knowledge, automation skills, and cloud fundamentals to improve software quality while continuously learning and growing in a professional environment.
+🔹 Docker Images
+🔹 Containers
+🔹 Dockerfile
+🔹 Container Deployment
 
 ---
 
+## 💻 Linux Administration
+
+🔹 Linux Commands
+🔹 File Permissions
+🔹 User Management
+🔹 Package Management
+🔹 Process Management
+
+---
+
+## 🌐 Cloud Networking
+
+🔹 Public & Private Subnets
+🔹 Route Tables
+🔹 Internet Gateway
+🔹 NAT Gateway
+🔹 Security Groups
+
+---
+
+## 🌍 Networking Fundamentals
+
+🔹 OSI Model
+🔹 TCP/IP Suite
+🔹 DNS
+🔹 HTTP/HTTPS
+🔹 IP Addressing
+🔹 Subnetting
+
+---
+
+## 🗄 Database & Storage
+
+🔹 SQL
+🔹 DBMS
+🔹 Relational Database Concepts
+🔹 Amazon RDS
+🔹 Amazon DynamoDB
+🔹 Basic Database Queries
+
+---
+
+## 🔧 Version Control & Scripting
+
+🔹 Git
+🔹 GitHub
+🔹 Shell Scripting (Bash)
+
+## ## 🧪 Software Testing & QA
+
+🔹 SDLC (Software Development Life Cycle)
+🔹 STLC (Software Testing Life Cycle)
+🔹 Manual Testing
+🔹 Automation Testing (Selenium)
+🔹 API Testing
+🔹 Agile Methodology
+🔹 Test Case Design
+🔹 Bug Reporting & Defect Tracking
+
+---
+
+# 📌 Featured Cloud Projects
+
+## 🔹 Production-Level 3-Tier Architecture on AWS
+
+✅ Designed and deployed a scalable 3-tier architecture using AWS and Terraform
+✅ Configured custom VPC, public/private subnets, EC2 instances, Load Balancer, and Auto Scaling
+✅ Implemented secure and highly available infrastructure across multiple layers
+
+---
+
+## 🔹 Static Website Hosting on AWS S3 using Terraform
+
+✅ Provisioned and configured Amazon S3 static website hosting infrastructure using Terraform
+✅ Automated bucket creation, website configuration, and access policies through Infrastructure as Code (IaC)
+✅ Improved deployment consistency and simplified infrastructure management
+
+---
+
+## 🔹 EC2 + NGINX Deployment with Terraform
+
+✅ Automated EC2 provisioning inside a custom VPC
+✅ Configured NGINX web server using Terraform user data scripts
+
+---
+
+## 🔹 Dockerized Application Deployment
+
+✅ Built and managed Docker containers for application deployment
+✅ Worked with Docker images, volumes, and container networking
+✅ Improved application portability and deployment consistency
+
+---
+
+## 🔹 IAM Management & Access Control
+
+✅ Created and managed IAM users, groups, and policies
+✅ Implemented secure access management using least privilege principles
+
+---
+
+# 📚 Currently Learning
+
+📖 CI/CD Pipelines
+📖 Kubernetes
+📖 AWS Monitoring & Logging
+📖 Cloud Automation
+
+---
+
+# 📫 Connect With Me
+
+🌐 GitHub: https://github.com/yourusername
+💼 LinkedIn: https://linkedin.com/in/yourprofile
+
+---
+
+⭐ Building Cloud Infrastructure | Automating Deployments | Open to Cloud & AWS Opportunities
