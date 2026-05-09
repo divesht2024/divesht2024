@@ -102,7 +102,7 @@
 🔹 GitHub
 🔹 Shell Scripting (Bash)
 
-## ## 🧪 Software Testing & QA
+##  🧪 Software Testing & QA
 
 🔹 SDLC (Software Development Life Cycle)
 🔹 STLC (Software Testing Life Cycle)
