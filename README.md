@@ -155,19 +155,12 @@
 
 ---
 
-# 📚 Currently Learning
-
-📖 CI/CD Pipelines
-📖 Kubernetes
-📖 AWS Monitoring & Logging
-📖 Cloud Automation
-
 ---
 
 # 📫 Connect With Me
 
-🌐 GitHub: https://github.com/yourusername
-💼 LinkedIn: https://linkedin.com/in/yourprofile
+🌐 GitHub: https://github.com/divesht2024
+💼 LinkedIn: www.linkedin.com/in/divesh-tayade-4a010124a
 
 ---
 
