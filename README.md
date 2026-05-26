@@ -27,7 +27,8 @@
 🔹 Route 53
 🔹 CloudWatch
 🔹 DynamoDB
-
+🔹 Lambda
+🔹 API Gateway
 ---
 
 ## 🛠 Infrastructure as Code (Terraform)
