@@ -31,6 +31,7 @@
 🔹 API Gateway
 ---
 
+
 ## 🛠 Infrastructure as Code (Terraform)
 
 🔹 AWS Provider
@@ -46,6 +47,7 @@
 
 ---
 
+
 ## 🐳 Containerization (Docker)
 
 🔹 Docker Images
@@ -54,6 +56,7 @@
 🔹 Container Deployment
 
 ---
+
 
 ## 💻 Linux Administration
 
@@ -65,6 +68,7 @@
 
 ---
 
+
 ## 🌐 Cloud Networking
 
 🔹 Public & Private Subnets
@@ -74,6 +78,7 @@
 🔹 Security Groups
 
 ---
+
 
 ## 🌍 Networking Fundamentals
 
@@ -86,6 +91,7 @@
 
 ---
 
+
 ## 🗄 Database & Storage
 
 🔹 SQL
@@ -97,11 +103,13 @@
 
 ---
 
+
 ## 🔧 Version Control & Scripting
 
 🔹 Git
 🔹 GitHub
 🔹 Shell Scripting (Bash)
+
 
 ##  🧪 Software Testing & QA
 
