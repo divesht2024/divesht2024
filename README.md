@@ -25,95 +25,13 @@
 ---
 
 
-## 🛠 Infrastructure as Code (Terraform)
-
-🔹 AWS Provider
-🔹 Resources
-🔹 Variables
-🔹 Outputs
-🔹 Modules
-🔹 State Management
-🔹 Remote Backend
-🔹 Provisioners
-🔹 Dynamic Blocks
-🔹 Workspaces
-
----
 
 
-## 🐳 Containerization (Docker)
-
-🔹 Docker Images
-🔹 Containers
-🔹 Dockerfile
-🔹 Container Deployment
-
----
 
 
-## 💻 Linux Administration
-
-🔹 Linux Commands
-🔹 File Permissions
-🔹 User Management
-🔹 Package Management
-🔹 Process Management
-
----
 
 
-## 🌐 Cloud Networking
 
-🔹 Public & Private Subnets
-🔹 Route Tables
-🔹 Internet Gateway
-🔹 NAT Gateway
-🔹 Security Groups
-
----
-
-
-## 🌍 Networking Fundamentals
-
-🔹 OSI Model
-🔹 TCP/IP Suite
-🔹 DNS
-🔹 HTTP/HTTPS
-🔹 IP Addressing
-🔹 Subnetting
-
----
-
-
-## 🗄 Database & Storage
-
-🔹 SQL
-🔹 DBMS
-🔹 Relational Database Concepts
-🔹 Amazon RDS
-🔹 Amazon DynamoDB
-🔹 Basic Database Queries
-
----
-
-
-## 🔧 Version Control & Scripting
-
-🔹 Git
-🔹 GitHub
-🔹 Shell Scripting (Bash)
-
-
-##  🧪 Software Testing & QA
-
-🔹 SDLC (Software Development Life Cycle)
-🔹 STLC (Software Testing Life Cycle)
-🔹 Manual Testing
-🔹 Automation Testing (Selenium)
-🔹 API Testing
-🔹 Agile Methodology
-🔹 Test Case Design
-🔹 Bug Reporting & Defect Tracking
 
 ---
 
