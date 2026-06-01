@@ -1,34 +1,27 @@
 # Hi, I'm Divesh Tayade 👋
 
-### ☁️ AWS & Cloud Engineer | Terraform | Docker | Linux | SQL | Networking
+### ☁️ Cloud Engineer | AWS • Terraform • Docker • Serverless (Lambda) • Bash | Infrastructure Automation & Cost Optimization
 
-🚀 Passionate Cloud Engineer with hands-on experience designing, deploying, and managing scalable cloud infrastructure on AWS using Terraform and cloud-native technologies. Skilled in Infrastructure as Code (IaC), cloud networking, Docker containerization, Linux administration, automation, and monitoring.
+🚀 Cloud Engineer hands-on experience at Engiplex Solutions, building and automating production-grade AWS infrastructure. Reduced provisioning time by 40% using Terraform IaC, architected a fault-tolerant 3-tier infrastructure, and built serverless cost optimization pipelines reducing unnecessary AWS spend.
 
-💡 Focused on building secure, reliable, and production-ready cloud environments while continuously improving cloud and DevOps skills.
+💡 Focused on building secure, reliable, and production-ready cloud environments while continuously improving Cloud and DevOps skills.
 
 ---
 
-# 🚀 Technical Skills
+## 🚀 Technical Skills
 
-## ☁️ Cloud Computing (AWS)
+| Category | Skills |
+|----------|--------|
+| ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, CloudWatch |
+| 🛠️ IaC | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
+| 🐳 Containerization | Docker — Dockerfile, Image Building, Container Deployment |
+| 🌐 Networking | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, IGW, NAT Gateway, Security Groups, DNS, HTTP/HTTPS, TCP/IP, Subnetting |
+| 📊 Monitoring | CloudWatch Dashboards, Metrics, Alarms |
+| 💻 Linux & Scripting | Bash Shell Scripting, File Permissions, User & Process Management, Package Management |
+| 🐍 Languages & SDKs | Python (Boto3), Bash |
+| 🔧 Version Control | Git, GitHub |
+| 📋 Methodologies | SDLC, Agile, Jira |
 
-🔹 EC2
-🔹 VPC
-🔹 S3
-🔹 IAM
-🔹 EBS
-🔹 RDS
-🔹 EFS
-🔹 Elastic Load Balancer (ELB)
-🔹 Auto Scaling
-🔹 CloudFront
-🔹 SNS
-🔹 SQS
-🔹 Route 53
-🔹 CloudWatch
-🔹 DynamoDB
-🔹 Lambda
-🔹 API Gateway
 ---
 
 
