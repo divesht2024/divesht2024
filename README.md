@@ -127,25 +127,25 @@
 # 📌 Featured Cloud Projects
 
 ## 🔹 Production-Grade 3-Tier Architecture on AWS
--✅ Architected a fault-tolerant 3-tier AWS infrastructure across 2 Availability Zones with isolated public and private subnets for web, application, and database tiers
--✅ Configured ALB with path-based routing and ASG with dynamic scaling policies, enabling automatic scale-out from 2 to 4 EC2 instances with least-privilege IAM roles and Security Groups per tier
--✅ Deployed Amazon RDS MySQL in private subnets with Multi-AZ failover ensuring zero single point of failure
--✅ Configured CloudWatch alarms on CPU, memory, and request metrics with SNS alerts, enabling sub-5-minute issue detection
--✅ Deployed and validated a full-stack web application end-to-end across all three tiers
+- ✅ Architected a fault-tolerant 3-tier AWS infrastructure across 2 Availability Zones with isolated public and private subnets for web, application, and database tiers
+- ✅ Configured ALB with path-based routing and ASG with dynamic scaling policies, enabling automatic scale-out from 2 to 4 EC2 instances with least-privilege IAM roles and Security Groups per tier
+- ✅ Deployed Amazon RDS MySQL in private subnets with Multi-AZ failover ensuring zero single point of failure
+- ✅ Configured CloudWatch alarms on CPU, memory, and request metrics with SNS alerts, enabling sub-5-minute issue detection
+- ✅ Deployed and validated a full-stack web application end-to-end across all three tiers
 
 ---
 
 ## 🔹 AWS Infrastructure Automation using Terraform
--✅ Automated provisioning of 10+ AWS resources including VPC, EC2, IAM roles, and Security Groups using Terraform, reducing manual setup time by approximately 60%
--✅ Built 4+ reusable Terraform modules with variables and outputs, enabling consistent one-command infrastructure deployment across dev and prod environments
--✅ Configured S3 remote backend with DynamoDB state locking, preventing concurrent state conflicts across team deployments
+- ✅ Automated provisioning of 10+ AWS resources including VPC, EC2, IAM roles, and Security Groups using Terraform, reducing manual setup time by approximately 60%
+- ✅ Built 4+ reusable Terraform modules with variables and outputs, enabling consistent one-command infrastructure deployment across dev and prod environments
+- ✅ Configured S3 remote backend with DynamoDB state locking, preventing concurrent state conflicts across team deployments
 
 ---
 
 ## 🔹 AWS Cost Optimization Toolkit
--✅ Built serverless automation using Python (Boto3) to detect stale AWS resources — unattached EBS volumes, unused Elastic IPs, and oversized S3 buckets — via Lambda functions triggered by EventBridge schedules
--✅ Automated scheduled EC2 instance shutdown and startup using Lambda and EventBridge cron expressions, reducing compute costs during non-business hours
--✅ Configured SNS notifications for real-time cost alerts, enabling proactive resource cleanup and reducing unnecessary AWS spend.
+- ✅ Built serverless automation using Python (Boto3) to detect stale AWS resources — unattached EBS volumes, unused Elastic IPs, and oversized S3 buckets — via Lambda functions triggered by EventBridge schedules
+- ✅ Automated scheduled EC2 instance shutdown and startup using Lambda and EventBridge cron expressions, reducing compute costs during non-business hours
+- ✅ Configured SNS notifications for real-time cost alerts, enabling proactive resource cleanup and reducing unnecessary AWS spend.
 
 ---
 
