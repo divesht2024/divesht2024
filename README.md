@@ -69,11 +69,12 @@
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-🌐 GitHub: https://github.com/divesht2024
-💼 LinkedIn: www.linkedin.com/in/divesh-tayade-4a010124a
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divesh-tayade-4a010124a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divesht2024)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diveshtayade20@gmail.com)
 
 ---
 
-⭐ Building Cloud Infrastructure | Automating Deployments | Open to Cloud & AWS Opportunities
+⭐ *Building Cloud Infrastructure | Automating Deployments | Open to Cloud & DevOps Opportunities*
