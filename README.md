@@ -150,8 +150,9 @@
 ---
 
 ## 🔹 Serverless Image Processing Pipeline
--✅ Designed an event-driven serverless pipeline using Python (Boto3) that automatically triggers image processing on S3 upload events via Lambda, eliminating the need for dedicated compute instances
--✅ Integrated SNS for post-processing notifications and CloudWatch alarms for pipeline monitoring, ensuring observability and failure alerting
+- ✅ Designed an event-driven serverless pipeline using Python (Boto3) that automatically triggers image processing on S3 upload events via Lambda, eliminating the need for dedicated compute instances
+- ✅ Integrated SNS for post-processing notifications and CloudWatch alarms for pipeline monitoring, ensuring observability and failure alerting
+
 
 ---
 
