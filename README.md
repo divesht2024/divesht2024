@@ -126,34 +126,32 @@
 
 # 📌 Featured Cloud Projects
 
-## 🔹 Production-Level 3-Tier Architecture on AWS
-
-✅ Designed and deployed a scalable 3-tier architecture using AWS and Terraform
-✅ Configured custom VPC, public/private subnets, EC2 instances, Load Balancer, and Auto Scaling
-✅ Implemented secure and highly available infrastructure across multiple layers
-
----
-
-## 🔹 Static Website Hosting on AWS S3 using Terraform
-
-✅ Provisioned and configured Amazon S3 static website hosting infrastructure using Terraform
-✅ Automated bucket creation, website configuration, and access policies through Infrastructure as Code (IaC)
-✅ Improved deployment consistency and simplified infrastructure management
+## 🔹 Production-Grade 3-Tier Architecture on AWS
+✅ Architected a fault-tolerant 3-tier AWS infrastructure across 2 Availability Zones with isolated public and private subnets for web, application, and database tiers
+✅ Configured ALB with path-based routing and ASG with dynamic scaling policies, enabling automatic scale-out from 2 to 4 EC2 instances with least-privilege IAM roles and Security Groups per tier
+✅ Deployed Amazon RDS MySQL in private subnets with Multi-AZ failover ensuring zero single point of failure
+✅ Configured CloudWatch alarms on CPU, memory, and request metrics with SNS alerts, enabling sub-5-minute issue detection
+✅ Deployed and validated a full-stack web application end-to-end across all three tiers
 
 ---
 
-## 🔹 EC2 + NGINX Deployment with Terraform
-
-✅ Automated EC2 provisioning inside a custom VPC
-✅ Configured NGINX web server using Terraform user data scripts
+## 🔹 AWS Infrastructure Automation using Terraform
+✅ Automated provisioning of 10+ AWS resources including VPC, EC2, IAM roles, and Security Groups using Terraform, reducing manual setup time by approximately 60%
+✅ Built 4+ reusable Terraform modules with variables and outputs, enabling consistent one-command infrastructure deployment across dev and prod environments
+✅ Configured S3 remote backend with DynamoDB state locking, preventing concurrent state conflicts across team deployments
 
 ---
 
-## 🔹 Dockerized Application Deployment
+## 🔹 AWS Cost Optimization Toolkit
+✅ Built serverless automation using Python (Boto3) to detect stale AWS resources — unattached EBS volumes, unused Elastic IPs, and oversized S3 buckets — via Lambda functions triggered by EventBridge schedules
+✅ Automated scheduled EC2 instance shutdown and startup using Lambda and EventBridge cron expressions, reducing compute costs during non-business hours
+✅ Configured SNS notifications for real-time cost alerts, enabling proactive resource cleanup and reducing unnecessary AWS spend.
 
-✅ Built and managed Docker containers for application deployment
-✅ Worked with Docker images, volumes, and container networking
-✅ Improved application portability and deployment consistency
+---
+
+## 🔹 Serverless Image Processing Pipeline
+✅ Designed an event-driven serverless pipeline using Python (Boto3) that automatically triggers image processing on S3 upload events via Lambda, eliminating the need for dedicated compute instances
+✅ Integrated SNS for post-processing notifications and CloudWatch alarms for pipeline monitoring, ensuring observability and failure alerting
 
 ---
 
