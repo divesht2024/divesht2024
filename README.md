@@ -24,17 +24,6 @@
 
 ---
 
-
-
-
-
-
-
-
-
-
----
-
 # 📌 Featured Cloud Projects
 
 ## 🔹 Production-Grade 3-Tier Architecture on AWS
@@ -56,16 +45,13 @@
 ## 🔹 AWS Cost Optimization Toolkit
 - ✅ Built serverless automation using Python (Boto3) to detect stale AWS resources — unattached EBS volumes, unused Elastic IPs, and oversized S3 buckets — via Lambda functions triggered by EventBridge schedules
 - ✅ Automated scheduled EC2 instance shutdown and startup using Lambda and EventBridge cron expressions, reducing compute costs during non-business hours
-- ✅ Configured SNS notifications for real-time cost alerts, enabling proactive resource cleanup and reducing unnecessary AWS spend.
+- ✅ Configured SNS notifications for real-time cost alerts, enabling proactive resource cleanup and reducing unnecessary AWS spend
 
 ---
 
 ## 🔹 Serverless Image Processing Pipeline
 - ✅ Designed an event-driven serverless pipeline using Python (Boto3) that automatically triggers image processing on S3 upload events via Lambda, eliminating the need for dedicated compute instances
 - ✅ Integrated SNS for post-processing notifications and CloudWatch alarms for pipeline monitoring, ensuring observability and failure alerting
-
-
----
 
 ---
 
