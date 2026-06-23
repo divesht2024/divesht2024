@@ -1,8 +1,8 @@
 # Hi, I'm Divesh Tayade 👋
 
-### ☁️ Cloud Engineer | AWS • Terraform • Docker • Serverless (Lambda) • Bash | Infrastructure Automation & Cost Optimization
+### ☁️ Cloud/DevOps Engineer | AWS • Terraform • Docker • GitHub Actions • CI/CD • Serverless (Lambda) • Bash | Infrastructure Automation & Cost Optimization
 
-🚀 Cloud Engineer hands-on experience at Engiplex Solutions, building and automating production-grade AWS infrastructure. Reduced provisioning time by 40% using Terraform IaC, architected a fault-tolerant 3-tier infrastructure, and built serverless cost optimization pipelines reducing unnecessary AWS spend.
+🚀 Cloud/DevOps Engineer with 7 months of hands-on experience at Engiplex Solutions, building and automating production-grade AWS infrastructure. Reduced provisioning time by 40% using Terraform IaC, architected a fault-tolerant 3-tier infrastructure, integrated GitHub Actions CI/CD pipelines for automated infrastructure deployment, and built serverless cost optimization pipelines reducing unnecessary AWS spend.
 
 💡 Focused on building secure, reliable, and production-ready cloud environments while continuously improving Cloud and DevOps skills.
 
@@ -12,12 +12,14 @@
 
 | Category | Skills |
 |----------|--------|
-| ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, CloudWatch |
+| ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, CloudTrail |
 | 🛠️ IaC | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
-| 🐳 Containerization | Docker — Dockerfile, Image Building, Container Deployment |
-| 🌐 Networking | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, IGW, NAT Gateway, Security Groups, DNS, HTTP/HTTPS, TCP/IP, Subnetting |
-| 📊 Monitoring | CloudWatch Dashboards, Metrics, Alarms |
-| 💻 Linux & Scripting | Bash Shell Scripting, File Permissions, User & Process Management, Package Management |
+| 🔄 CI/CD | GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
+| 🐳 Containerization | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
+| 🌐 Networking | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, IGW, NAT Gateway, Security Groups, NACLs, DNS, HTTP/HTTPS, TLS/SSL, TCP/IP, Subnetting, OSI Model |
+| 🔐 AWS Security | GuardDuty, Security Hub, WAF, Shield, KMS, Secrets Manager, AWS Config |
+| 📊 Monitoring | CloudWatch — Dashboards, Metrics, Alarms, Logs Insights |
+| 💻 Linux & Scripting | Bash Shell Scripting, File Permissions, User & Process Management, Package Management, Cron Jobs, SSH |
 | 🐍 Languages & SDKs | Python (Boto3), Bash |
 | 🔧 Version Control | Git, GitHub |
 | 📋 Methodologies | SDLC, Agile, Jira |
@@ -35,10 +37,11 @@
 
 ---
 
-## 🔹 AWS Infrastructure Automation using Terraform
+## 🔹 AWS Infrastructure Automation using Terraform + GitHub Actions
 - ✅ Automated provisioning of 10+ AWS resources including VPC, EC2, IAM roles, and Security Groups using Terraform, reducing manual setup time by approximately 60%
 - ✅ Built 4+ reusable Terraform modules with variables and outputs, enabling consistent one-command infrastructure deployment across dev and prod environments
 - ✅ Configured S3 remote backend with DynamoDB state locking, preventing concurrent state conflicts across team deployments
+- ✅ Integrated GitHub Actions CI/CD pipeline to automate Terraform format checks, validation, and plan generation on every pull request, with automated apply on merge to main
 
 ---
 
