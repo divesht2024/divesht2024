@@ -61,7 +61,11 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divesh-tayade-4a010124a/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/divesht2024)
+
+[![KodeKloud](https://img.shields.io/badge/KodeKloud-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kodekloud.com/u/<your-username>)
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diveshtayade20@gmail.com)
 
 ---
