@@ -12,7 +12,7 @@
 
 | Category | Skills |
 |----------|--------|
-| ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, CloudTrail |
+| ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, ECS, CloudTrail |
 | 🛠️ IaC | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
 | 🔄 CI/CD | GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
 | 🐳 Containerization | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
