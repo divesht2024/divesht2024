@@ -16,6 +16,7 @@
 | 🛠️ IaC | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
 | 🔄 CI/CD | GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
 | 🐳 Containerization | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
+| 🌍 Web Servers | NGINX, Apache HTTP Server, Reverse Proxy, Virtual Hosts, SSL/TLS Configuration, Load Balancing |
 | 🌐 Networking | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, IGW, NAT Gateway, Security Groups, NACLs, DNS, HTTP/HTTPS, TLS/SSL, TCP/IP, Subnetting, OSI Model |
 | 🔐 AWS Security | GuardDuty, Security Hub, WAF, Shield, KMS, Secrets Manager, AWS Config |
 | 📊 Monitoring | CloudWatch — Dashboards, Metrics, Alarms, Logs Insights |
