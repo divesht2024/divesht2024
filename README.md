@@ -13,8 +13,10 @@
 | Category | Skills |
 |----------|--------|
 | ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, ECS, CloudTrail |
-| 🛠️ IaC | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
+| ☸️ Kubernetes | Pods, Deployments, ReplicaSets, Services (ClusterIP, NodePort), Namespaces, Labels & Selectors, ConfigMaps, Secrets, YAML Manifests, Self-Healing, Rolling Updates, Scaling, kubectl |
+| 🛠️ Infrastructure as Code | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
 | 🔄 CI/CD | Jenkins, GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
+| 🛡️ DevSecOps | SonarQube (Static Code Analysis), Trivy (Container & IaC Vulnerability Scanning) |
 | 🐳 Containerization | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
 | 🌍 Web Servers | NGINX, Apache HTTP Server, Reverse Proxy, Virtual Hosts, SSL/TLS Configuration, Load Balancing |
 | 🌐 Networking | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, IGW, NAT Gateway, Security Groups, NACLs, DNS, HTTP/HTTPS, TLS/SSL, TCP/IP, Subnetting, OSI Model |
