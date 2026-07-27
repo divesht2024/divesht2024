@@ -10,22 +10,24 @@
 
 ## 🚀 Technical Skills
 
+# Technical Skills
+
 | Category | Skills |
 |----------|--------|
-| ☁️ Cloud (AWS) | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, ECS, CloudTrail |
-| ☸️ Kubernetes | Pods, Deployments, ReplicaSets, Services (ClusterIP, NodePort), Namespaces, Labels & Selectors, ConfigMaps, Secrets, YAML Manifests, Self-Healing, Rolling Updates, Scaling, kubectl |
-| 🛠️ Infrastructure as Code | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
-| 🔄 CI/CD | Jenkins, GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
-| 🛡️ DevSecOps | SonarQube (Static Code Analysis), Trivy (Container & IaC Vulnerability Scanning) |
-| 🐳 Containerization | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
-| 🌍 Web Servers | NGINX, Apache HTTP Server, Reverse Proxy, Virtual Hosts, SSL/TLS Configuration, Load Balancing |
-| 🌐 Networking | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, IGW, NAT Gateway, Security Groups, NACLs, DNS, HTTP/HTTPS, TLS/SSL, TCP/IP, Subnetting, OSI Model |
-| 🔐 AWS Security | GuardDuty, Security Hub, WAF, Shield, KMS, Secrets Manager, AWS Config |
-| 📊 Monitoring | CloudWatch — Dashboards, Metrics, Alarms, Logs Insights |
-| 💻 Linux & Scripting | Bash Shell Scripting, File Permissions, User & Process Management, Package Management, Cron Jobs, SSH |
-| 🐍 Languages & SDKs | Python (Boto3), Bash |
-| 🔧 Version Control | Git, GitHub |
-| 📋 Methodologies | SDLC, Agile, Jira |
+| ☁️ **Cloud (AWS)** | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, ECS, CloudTrail |
+| ☸️ **Kubernetes** | Pods, Deployments, ReplicaSets, Services (ClusterIP, NodePort), Namespaces, Labels & Selectors, ConfigMaps, Secrets, YAML Manifests, Self-Healing, Rolling Updates, Scaling, Helm Charts, kubectl |
+| 🛠️ **Infrastructure as Code** | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
+| 🔄 **CI/CD** | Jenkins, GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
+| 🛡️ **DevSecOps** | SonarQube (Static Code Analysis), Trivy (Container & IaC Vulnerability Scanning) |
+| 🐳 **Containerization** | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
+| 🌍 **Web Servers** | NGINX, Apache HTTP Server, Reverse Proxy, Virtual Hosts, SSL/TLS Configuration, Load Balancing |
+| 🌐 **Networking** | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, Internet Gateway (IGW), NAT Gateway, Security Groups, Network ACLs (NACLs), DNS, HTTP/HTTPS, TLS/SSL, TCP/IP, Subnetting, OSI Model |
+| 🔐 **AWS Security** | GuardDuty, Security Hub, WAF, Shield, KMS, Secrets Manager, AWS Config |
+| 📊 **Monitoring & Observability** | Prometheus, Grafana, CloudWatch — Dashboards, Metrics, Alarms, Logs Insights |
+| 💻 **Linux & Scripting** | Bash Shell Scripting, File Permissions, User & Process Management, Package Management, Cron Jobs, SSH |
+| 🐍 **Languages & SDKs** | Python (Boto3), Bash |
+| 🔧 **Version Control** | Git, GitHub |
+| 📋 **Methodologies & Tools** | SDLC, Agile, Jira |
 
 ---
 
