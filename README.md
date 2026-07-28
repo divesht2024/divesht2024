@@ -1,7 +1,6 @@
 # Hi, I'm Divesh Tayade 👋
 
-### ☁️ Cloud/DevOps Engineer | AWS • Terraform • Docker • GitHub Actions • CI/CD • Serverless (Lambda) • Bash | Infrastructure Automation & Cost Optimization
-
+### ☁️ Cloud/DevOps Engineer | AWS • Kubernetes • Terraform • Docker • Jenkins • GitHub Actions • CI/CD • SonarQube • Trivy • Serverless (Lambda) • Bash | Infrastructure Automation & Cost Optimization
 🚀 Cloud/DevOps Engineer with 9 months of hands-on experience at Engiplex Solutions, building and automating production-grade AWS infrastructure. Reduced provisioning time by 40% using Terraform IaC, architected a fault-tolerant 3-tier infrastructure, integrated GitHub Actions CI/CD pipelines for automated infrastructure deployment, and built serverless cost optimization pipelines reducing unnecessary AWS spend.
 
 💡 Focused on building secure, reliable, and production-ready cloud environments while continuously improving Cloud and DevOps skills.
