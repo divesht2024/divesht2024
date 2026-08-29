@@ -13,8 +13,6 @@
 
 ## 🚀 Technical Skills
 
-# Technical Skills
-
 | Category | Skills |
 |----------|--------|
 | ☁️ **Cloud (AWS)** | EC2, VPC, S3, IAM, EBS, RDS, Route 53, ALB, ELB, ASG, Multi-AZ, SNS, SQS, Lambda, API Gateway, ECR, ECS, CloudTrail |
