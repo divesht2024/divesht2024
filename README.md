@@ -32,6 +32,23 @@
 
 # 📌 Featured Cloud Projects
 
+---
+
+## 🔹 End-to-End DevOps CI/CD Pipeline *(Upcoming)*
+
+* 🔄 Building a complete CI/CD pipeline using GitHub Actions/Jenkins, Docker, Kubernetes, and Terraform to automate application build, testing, infrastructure provisioning, and deployment
+* 🔄 Implementing containerized application deployments on Kubernetes with automated rollout, configuration management, and environment-specific deployments
+* 🔄 Integrating monitoring and observability using Prometheus, Grafana, and CloudWatch for application and infrastructure metrics
+
+---
+
+## 🔹 End-to-End DevSecOps Pipeline *(Upcoming)*
+
+* 🔄 Building a secure CI/CD pipeline integrating SonarQube, Trivy, and AWS security services to identify code, dependency, and container vulnerabilities
+* 🔄 Implementing automated security scanning and quality gates throughout the CI/CD workflow before application deployment
+* 🔄 Deploying secured containerized workloads on Kubernetes with centralized monitoring and security-focused deployment practices
+
+
 ## 🔹 Production-Grade 3-Tier Architecture on AWS
 - ✅ Architected a fault-tolerant 3-tier AWS infrastructure across 2 Availability Zones with isolated public and private subnets for web, application, and database tiers
 - ✅ Configured ALB with path-based routing and ASG with dynamic scaling policies, enabling automatic scale-out from 2 to 4 EC2 instances with least-privilege IAM roles and Security Groups per tier
@@ -74,4 +91,4 @@
 
 ---
 
-⭐ *Building Cloud Infrastructure | Automating Deployments | Open to Cloud & DevOps Opportunities*
+🚀 Building Cloud Infrastructure | Automating CI/CD | Exploring DevSecOps | Open to Cloud & DevOps Roles
