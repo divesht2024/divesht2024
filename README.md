@@ -34,7 +34,6 @@
 
 # 📌 Featured Cloud Projects
 
----
 ## 🔹 Production-Grade 3-Tier Architecture on AWS
 - ✅ Architected a fault-tolerant 3-tier AWS infrastructure across 2 Availability Zones with isolated public and private subnets for web, application, and database tiers
 - ✅ Configured ALB with path-based routing and ASG with dynamic scaling policies, enabling automatic scale-out from 2 to 4 EC2 instances with least-privilege IAM roles and Security Groups per tier
@@ -77,10 +76,6 @@
 * 🔄 Building a secure CI/CD pipeline integrating SonarQube, Trivy, and AWS security services to identify code, dependency, and container vulnerabilities
 * 🔄 Implementing automated security scanning and quality gates throughout the CI/CD workflow before application deployment
 * 🔄 Deploying secured containerized workloads on Kubernetes with centralized monitoring and security-focused deployment practices
-
-
-
-
 
 ---
 
