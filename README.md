@@ -87,6 +87,15 @@
 - 🛡️ **Advanced DevSecOps** — Security automation and CI/CD integration
 - ☁️ **Advanced Kubernetes** — Troubleshooting, scaling, and production practices
 
+---
+
+## 🎓 Certifications
+
+- 🔄 **AWS Certified Cloud Practitioner (CLF-C02)** — In Progress
+- 🔄 **AWS Certified AI Practitioner (AIF-C01)** — In Progress
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divesh-tayade-4a010124a/)
