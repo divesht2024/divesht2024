@@ -8,6 +8,7 @@
 
 💡 Focused on building secure, reliable, and production-ready cloud environments while continuously improving Cloud and DevOps skills.
 
+🎯 Open to Cloud/DevOps Engineer opportunities
 ---
 
 ## 🚀 Technical Skills
@@ -84,6 +85,14 @@
 
 
 ---
+
+## 📚 Currently Learning
+
+- ☸️ **Helm** — Kubernetes package management and deployment
+- 📊 **Prometheus** — Metrics collection and monitoring
+- 📈 **Grafana** — Dashboards and observability
+- 🛡️ **Advanced DevSecOps** — Security automation and CI/CD integration
+- ☁️ **Advanced Kubernetes** — Troubleshooting, scaling, and production practices
 
 ## 📫 Connect With Me
 
