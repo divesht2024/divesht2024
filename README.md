@@ -92,7 +92,7 @@
 ## 🎓 Certifications
 
 - 🔄 **AWS Certified Cloud Practitioner (CLF-C02)** — In Progress
-- 🔄 **AWS Certified AI Practitioner (AIF-C01)** — In Progress
+- 🔄 **AWS Certified AI Practitioner (AIF-C01)** — In Progress.
 
 ---
 
