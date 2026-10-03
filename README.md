@@ -19,7 +19,7 @@
 | ☸️ **Kubernetes** | Pods, Deployments, ReplicaSets, Services (ClusterIP, NodePort), Namespaces, Labels & Selectors, ConfigMaps, Secrets, YAML Manifests, Self-Healing, Rolling Updates, Scaling, Helm Charts, kubectl |
 | 🛠️ **Infrastructure as Code** | Terraform — Modules, Variables, Outputs, Remote S3 Backend, DynamoDB State Locking |
 | 🔄 **CI/CD** | Jenkins, GitHub Actions — Workflows, Triggers, Secrets, Sequential Jobs, Conditional Execution, Docker Integration, Terraform Automation |
-| 🛡️ **DevSecOps** | SonarQube (Static Code Analysis), Trivy (Container & IaC Vulnerability Scanning) |
+| 🛡️ **DevSecOps** | SonarQube (Static Code Analysis), Trivy (Container & IaC Vulnerability Scanning) | OWASP
 | 🐳 **Containerization** | Docker — Dockerfile, Multi-stage Builds, Docker Compose, Networking, Volumes, Image Optimization, ECR Integration |
 | 🌍 **Web Servers** | NGINX, Apache HTTP Server, Reverse Proxy, Virtual Hosts, SSL/TLS Configuration, Load Balancing |
 | 🌐 **Networking** | VPC Design, VPC Peering, Transit Gateway, Public/Private Subnets, Route Tables, Internet Gateway (IGW), NAT Gateway, Security Groups, Network ACLs (NACLs), DNS, HTTP/HTTPS, TLS/SSL, TCP/IP, Subnetting, OSI Model |
