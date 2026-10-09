@@ -41,11 +41,14 @@
 # 📌 Featured Projects
 
 ## 🔹 BrewSecOps — Secure Cloud-Native Deployment on AWS & Kubernetes
-- ✅ Built an end-to-end **DevSecOps CI/CD pipeline** in Jenkins that runs a SonarQube quality gate, Trivy image scan, Docker build, and Amazon ECR push automatically on every commit
-- ✅ Deployed the app on **Amazon EKS** with Helm, Ingress, health probes, resource limits, and HPA for repeatable releases and automatic scaling
-- ✅ Implemented **Prometheus and Grafana** dashboards with alerts for 5+ failure scenarios (pod failures, high resource usage, service unavailability)
 
-**Tech:** `Jenkins` `Docker` `Kubernetes` `Amazon EKS` `Helm` `AWS ECR` `AWS ALB` `Cloudflare` `SonarQube` `Trivy` `OWASP Dependency-Check` `Prometheus` `Grafana` `Email Alerts`
+* ✅ Built an end-to-end **DevSecOps CI/CD pipeline** in Jenkins that runs SonarQube quality gates, Trivy image scans, Docker builds, and Amazon ECR pushes automatically on every commit.
+* ✅ Deployed the application on **Amazon EKS** using Helm, AWS Application Load Balancer (ALB), and Cloudflare for ingress traffic routing and secure access.
+* ✅ Implemented **Prometheus and Grafana** dashboards with alerts for 5+ failure scenarios, including pod failures, high resource usage, and service unavailability.
+* ✅ Configured **email alerts and automated email reports** to deliver pipeline execution results and security scan findings, along with monitoring notifications.
+
+**Tech:** `Jenkins` `Docker` `Kubernetes` `Amazon EKS` `Helm` `AWS ECR` `AWS ALB` `Cloudflare` `SonarQube` `Trivy` `OWASP Dependency-Check` `Prometheus` `Grafana` `Email Alerts` `Automated Email Reports`
+
 
 
 ---
