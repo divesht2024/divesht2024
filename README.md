@@ -44,8 +44,9 @@
 - ✅ Built an end-to-end **DevSecOps CI/CD pipeline** in Jenkins that runs a SonarQube quality gate, Trivy image scan, Docker build, and Amazon ECR push automatically on every commit
 - ✅ Deployed the app on **Amazon EKS** with Helm, Ingress, health probes, resource limits, and HPA for repeatable releases and automatic scaling
 - ✅ Implemented **Prometheus and Grafana** dashboards with alerts for 5+ failure scenarios (pod failures, high resource usage, service unavailability)
+**Tech:**
+`Jenkins` `Docker` `Kubernetes` `Amazon EKS` `Helm` `AWS ECR` `AWS ALB` `Cloudflare` `SonarQube` `Trivy` `OWASP Dependency-Check` `Prometheus` `Grafana` `Email Alerts`
 
-**Tech:** `Jenkins` `Docker` `Kubernetes` `Amazon EKS` `Helm` `AWS ECR` `SonarQube` `Trivy` `OWASP` `Prometheus` `Grafana`
 
 ---
 
