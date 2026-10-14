@@ -1,107 +1,121 @@
-<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0B1020,50:123A5A,100:00C9FF&text=Divesh%20Tayade&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20DevSecOps%20Engineer&descAlignY=58&descSize=20" width="100%" alt="Divesh Tayade — Cloud and DevOps Engineer banner"/>
+
+</div>
 
 <div align="center">
 
-# 👋 Hi, I'm Divesh Tayade
-
-### ☁️ Cloud & DevOps Engineer
-
-**Building reliable cloud infrastructure · Automating CI/CD · Securing deployments**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Engineer;AWS+%7C+Terraform+%7C+Docker+%7C+Kubernetes;Building+Secure+CI%2FCD+Pipelines;Infrastructure+as+Code+%7C+Cloud+Automation;Monitoring+%7C+Observability+%7C+DevSecOps;Building+BrewSecOps+%26+CloudResQ" alt="Animated introduction"/>
+</a>
 
 <br/>
 
-<a href="https://github.com/divesht2024">
-  <img src="https://img.shields.io/badge/GitHub-divesht2024-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
 <a href="https://linkedin.com/in/diveshtayade">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/divesht2024">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:diveshtayade20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:123A5A,100:00C9FF&height=3&section=header" width="100%" alt="Blue gradient divider"/>
+<img src="https://komarev.com/ghpvc/?username=divesht2024&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-## `$ whoami`
+---
 
-I'm a Cloud / DevOps Engineer focused on AWS infrastructure, Infrastructure as Code, CI/CD automation, container orchestration, and DevSecOps.
+## 👨‍💻 About Me
 
-I enjoy building practical projects that automate deployments, improve infrastructure reliability, integrate security checks, and make applications easier to monitor and maintain.
+```yaml
+name: Divesh Tayade
+role: Cloud / DevOps Engineer
+location: Pune, India
+experience: Approximately 9 months
+focus:
+  - AWS Cloud Infrastructure
+  - Infrastructure as Code
+  - CI/CD Automation
+  - Container Orchestration
+  - DevSecOps
+  - Monitoring and Observability
+currently_learning:
+  - Ansible
+  - Advanced Kubernetes
+  - Cloud Infrastructure Automation
+open_to:
+  - Cloud Engineer
+  - DevOps Engineer
+  - Cloud Support / Operations Engineer
+  - Junior SRE
+```
 
-- 📍 **Location:** Pune, India
-- 💼 **Experience:** Approximately 9 months in Cloud / DevOps, as described in my experience section
-- 🎯 **Target roles:** Cloud Engineer, DevOps Engineer, Cloud Support / Operations Engineer, Junior SRE
-- 🚀 **Availability:** Open to opportunities
-- ☁️ **Core focus:** AWS · Terraform · Docker · Kubernetes · Jenkins · DevSecOps
+- ☁️ Building and automating cloud infrastructure using AWS and Terraform.
+- 🔄 Developing CI/CD pipelines with Jenkins and GitHub Actions.
+- 🐳 Working with Docker, Kubernetes, Amazon EKS, and Helm.
+- 🛡️ Integrating SonarQube, Trivy, and dependency security checks into delivery workflows.
+- 📊 Exploring monitoring, troubleshooting, and observability with Prometheus and Grafana.
+- 🎯 Open to Cloud, DevOps, and infrastructure-focused opportunities.
 
 ---
 
-## ⚡ Technical Arsenal
-
-<div align="center">
+## ⚡ Tech Stack & Tools
 
 ### ☁️ Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,terraform" alt="AWS and Terraform"/>
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/Ansible-181818?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
 
 ### 🐳 Containers & Orchestration
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" alt="Docker, Kubernetes and Helm"/>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" alt="Amazon EKS"/>
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+</p>
 
 ### 🔄 CI/CD & Version Control
 
-<img src="https://skillicons.dev/icons?i=jenkins,github,git,githubactions" alt="Jenkins, GitHub, Git and GitHub Actions"/>
+<p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+### 🛡️ DevSecOps & Security
+
+<p>
+<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
+<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy"/>
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
+</p>
 
 ### 📊 Monitoring & Observability
 
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana"/>
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
+<img src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" alt="Amazon CloudWatch"/>
+</p>
 
-### 💻 Systems & Scripting
+### 🐧 Linux, Networking & Scripting
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,nginx" alt="Linux, Bash, Python and NGINX"/>
-
-</div>
-
-<details>
-<summary><b>🔍 Explore my technical skills</b></summary>
-
-| Domain | Technologies and Concepts |
-|---|---|
-| AWS | EC2, VPC, S3, IAM, EBS, RDS, ALB, Auto Scaling, Route 53, Lambda, SNS, SQS, ECR, ECS, EKS, DynamoDB, CloudWatch, CloudTrail |
-| Kubernetes | Pods, Deployments, ReplicaSets, Services, Ingress, ConfigMaps, Secrets, HPA, Probes, Rolling Updates, Helm, kubectl |
-| Infrastructure as Code | Terraform modules, variables, outputs, remote state, S3 backend, DynamoDB state locking |
-| CI/CD | Jenkins, GitHub Actions, pipeline stages, triggers, secrets, Docker integration, Terraform validation |
-| DevSecOps | SonarQube, Trivy, OWASP Dependency-Check, static analysis, vulnerability scanning, quality gates |
-| Containers | Dockerfiles, multi-stage builds, Docker Compose, networking, volumes, Amazon ECR |
-| Networking | VPC design, public/private subnets, route tables, Internet Gateway, NAT Gateway, Security Groups, NACLs, DNS, TCP/IP, HTTP/HTTPS |
-| Monitoring | Prometheus, Grafana, CloudWatch, metrics, dashboards, alarms, logs |
-| Linux & Scripting | RHEL, Ubuntu, Bash, Python/Boto3, file permissions, process management, cron, SSH |
-| Web Servers | NGINX, Apache HTTP Server, reverse proxy, SSL/TLS, load balancing |
-| Version Control | Git, GitHub |
-
-</details>
-
----
-
-## 💼 Professional Experience
-
-### Junior Cloud Engineer · Engiplex Solutions
-
-`Oct 2025 – Jul 2026` · Remote
-
-- ☁️ Managed AWS operations across EC2 instances and VPCs, including patching, snapshots, IAM and Security Group changes, and load-balancer target health checks.
-- ⚙️ Worked with Lambda, SNS, SQS, and DynamoDB for cloud automation, including scheduled EC2 start/stop workflows.
-- 🐳 Containerized applications using Docker and worked with EKS/ECS deployments through ECR and Helm.
-- 🔧 Automated AWS infrastructure using reusable Terraform modules, remote state, and state locking.
-- 🔄 Maintained Jenkins and GitHub Actions CI/CD workflows incorporating code-quality and security-scanning tools.
-- 📊 Used CloudWatch, Prometheus, and Grafana for monitoring, troubleshooting, and infrastructure visibility.
-- 🐧 Supported RHEL/Ubuntu environments, incident investigation, and operational documentation.
-
-> Add quantified results such as the number of instances, pipelines, incidents, or percentage improvements only where you have reliable evidence and can explain your contribution.
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX"/>
+</p>
 
 ---
 
@@ -114,22 +128,20 @@ I enjoy building practical projects that automate deployments, improve infrastru
 **Secure Cloud-Native Deployment on AWS & Kubernetes**
 
 <a href="https://github.com/divesht2024/brewsecureops">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white" alt="View BrewSecOps"/>
+<img src="https://img.shields.io/badge/Explore_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore BrewSecOps"/>
 </a>
 
 </div>
 
-An end-to-end DevSecOps project integrating CI/CD automation, security scanning, containerization, Kubernetes deployment, and monitoring.
+A DevSecOps project integrating CI/CD automation, security scanning, container image delivery, Kubernetes deployment, and observability.
 
-**Key implementations**
+- 🔄 Jenkins pipeline with SonarQube analysis and configured security scans.
+- 🛡️ Trivy and OWASP Dependency-Check for vulnerability analysis.
+- 🐳 Docker image builds and Amazon ECR integration.
+- ☸️ Amazon EKS deployment with Helm and AWS networking components.
+- 📊 Prometheus and Grafana dashboards for monitoring configured metrics.
 
-- 🔄 Jenkins CI/CD pipeline with source checkout, SonarQube analysis, Docker image builds, Trivy scanning, and Amazon ECR integration.
-- 🛡️ Code-quality and vulnerability checks using SonarQube, Trivy, and OWASP Dependency-Check.
-- ☸️ Kubernetes deployment on Amazon EKS using Helm and associated AWS networking components.
-- 📊 Prometheus and Grafana dashboards for monitoring configured application and infrastructure metrics.
-- 📧 Pipeline email notifications and monitoring notifications where configured.
-
-**Stack:** `Jenkins` `Docker` `EKS` `Kubernetes` `Helm` `ECR` `SonarQube` `Trivy` `OWASP` `Prometheus` `Grafana`
+**Stack:** `Jenkins` `Docker` `EKS` `Helm` `ECR` `SonarQube` `Trivy` `Prometheus` `Grafana`
 
 ---
 
@@ -139,17 +151,15 @@ An end-to-end DevSecOps project integrating CI/CD automation, security scanning,
 
 </div>
 
-A multi-tier AWS architecture designed to separate application layers, improve network isolation, and support high availability.
-
-**Key implementations**
+A multi-tier AWS infrastructure designed for network isolation, scalability, and availability.
 
 - 🌐 Public and private subnets across two Availability Zones.
-- ⚖️ Application Load Balancer with path-based routing and Auto Scaling.
-- 🗄️ Amazon RDS MySQL in private subnets with Multi-AZ configuration.
-- 🔔 CloudWatch monitoring and SNS notifications.
-- 🔐 IAM roles and Security Groups for controlled access between tiers.
+- ⚖️ ALB path-based routing and Auto Scaling.
+- 🗄️ Amazon RDS MySQL with Multi-AZ configuration.
+- 📊 CloudWatch alarms and SNS notifications.
+- 🔐 IAM roles and Security Groups for controlled access.
 
-**Stack:** `AWS` `EC2` `VPC` `ALB` `Auto Scaling` `RDS` `IAM` `CloudWatch` `SNS`
+**Stack:** `AWS` `VPC` `EC2` `ALB` `Auto Scaling` `RDS` `IAM` `CloudWatch` `SNS`
 
 ---
 
@@ -161,106 +171,93 @@ A multi-tier AWS architecture designed to separate application layers, improve n
 
 </div>
 
-Infrastructure as Code project focused on repeatable provisioning, modular configuration, and automated validation.
+Infrastructure as Code focused on reusable modules and automated validation.
 
-**Key implementations**
+- 🧱 Modular Terraform configurations for AWS resources.
+- ☁️ S3 remote state and DynamoDB state locking, where configured.
+- 🔄 Automated formatting, validation, and plan checks.
+- 🔐 Reproducible infrastructure deployment workflows.
 
-- 🧱 Reusable Terraform modules for AWS resources.
-- ☁️ Remote state using Amazon S3 and state locking where configured.
-- 🔄 GitHub Actions workflows for Terraform formatting, validation, and planning.
-- 🔐 Infrastructure configuration using variables, outputs, and IAM permissions.
-
-**Stack:** `Terraform` `AWS` `GitHub Actions` `S3` `DynamoDB` `VPC` `IAM`
+**Stack:** `Terraform` `AWS` `GitHub Actions` `S3` `DynamoDB` `VPC`
 
 ---
 
 <div align="center">
 
-### 💰 AWS Cost Optimization Toolkit
+### 🩺 CloudResQ
+
+**Self-Healing Cloud Infrastructure & Automated DevOps**
 
 </div>
 
-Serverless automation designed to identify potentially unused AWS resources and reduce unnecessary compute costs.
+A planned cloud automation project focused on infrastructure provisioning, application deployment, health monitoring, and automated recovery.
 
-**Key implementations**
+- 🏗️ Terraform-based AWS infrastructure provisioning.
+- 🔄 Jenkins-driven deployment workflows.
+- 🛠️ Ansible-based configuration management.
+- 🐳 Dockerized application deployment.
+- 📊 Health monitoring and recovery automation.
+- 🌍 Planned multi-AZ and multi-region resilience using appropriate AWS traffic-routing services.
 
-- 🐍 Python and Boto3 scripts for resource discovery.
-- ⚡ Lambda and EventBridge for scheduled automation.
-- 🖥️ Scheduled EC2 start/stop workflows.
-- 🔔 SNS notifications for operational and cost-related events.
+**Stack:** `AWS` `Terraform` `Jenkins` `Ansible` `Docker` `Prometheus` `Grafana`
 
-**Stack:** `Python` `Boto3` `Lambda` `EventBridge` `SNS` `EC2` `EBS` `S3`
+> CloudResQ is a project roadmap. Mark individual capabilities as implemented only after testing them.
 
 ---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 🖼️ Serverless Image Processing Pipeline
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divesht2024&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesht2024&layout=compact&theme=tokyonight&hide_border=true" alt="Top programming languages"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=divesht2024&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=divesht2024&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph"/>
 
 </div>
 
-An event-driven workflow that processes uploaded images using serverless AWS services.
-
-**Key implementations**
-
-- 📦 S3 upload events trigger Lambda processing.
-- ⚡ Event-driven execution without dedicated application servers.
-- 📧 SNS notifications for processing outcomes.
-- 📊 CloudWatch logs and alarms for troubleshooting.
-
-**Stack:** `Python` `Boto3` `S3` `Lambda` `SNS` `CloudWatch`
-
 ---
 
-## 🧭 Currently Building My Skills
+## 🖥️ System Status
 
-- ☸️ **Kubernetes & Amazon EKS:** deployments, troubleshooting, scaling, and cluster operations.
-- 🔧 **Ansible:** configuration management, inventories, playbooks, and infrastructure automation.
-- 🛡️ **DevSecOps:** security scanning and automated CI/CD workflows.
-- 🏗️ **Cloud resilience:** infrastructure automation, monitoring, and recovery patterns.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=38BDF8&background=0D1117&center=true&vCenter=true&width=750&lines=divesh%40cloudops%3A~%24+whoami;Cloud+%26+DevOps+Engineer;divesh%40cloudops%3A~%24+terraform+%E2%86%92+infrastructure+as+code;divesh%40cloudops%3A~%24+docker+%E2%86%92+containerization;divesh%40cloudops%3A~%24+kubernetes+%E2%86%92+orchestration;divesh%40cloudops%3A~%24+prometheus+%2B+grafana+%E2%86%92+observability;divesh%40cloudops%3A~%24+status%3A+building+and+learning" alt="Animated DevOps terminal"/>
+
+</div>
 
 ---
 
 ## 🎓 Certifications
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**
-
-Update this section with your verified certification status and public credential link once AWS confirms the outcome of your exam review.
+- **AWS Certified Solutions Architect – Associate (SAA-C03):** Publish the credential and verification link after AWS confirms the certification outcome.
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=divesht2024&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divesht2024&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages"/>
-
-<img src="https://streak-stats.demolab.com?user=divesht2024&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in opportunities involving AWS, cloud infrastructure, CI/CD, Kubernetes, DevSecOps, and infrastructure automation.
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/diveshtayade">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:diveshtayade20@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail" alt="Send an email"/>
 </a>
 <a href="https://github.com/divesht2024">
-  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="Explore GitHub"/>
 </a>
 
 <br/><br/>
 
-**☁️ Automate infrastructure. 🔐 Secure deployments. 📊 Improve reliability.**
+**☁️ Automate infrastructure · 🔐 Secure delivery · 📊 Monitor reliability**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:0B1020&height=100&section=footer" width="100%" alt="Blue gradient footer"/>
 
 </div>
